@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><Context>
+    <Resource accessToUnderlyingConnectionAllowed="true" driverClassName="com.mysql.jdbc.Driver" logAbandoned="true" name="jdbc/main" password="7n9s51p887q10568" profile="DEV" removeAbandoned="" removeAbandonedTimeout="60" schema="" type="javax.sql.DataSource" url="jdbc:mysql://rds-oncronos-shared.cx8gelec2ybx.us-east-1.rds.amazonaws.com:3306/15e66e9d-f268-4da7-a9f5-1c887d105688?createDatabaseIfNotExist=true" username="15r66r9qs2684qn7"/>
+    <Resource accessToUnderlyingConnectionAllowed="false" driverClassName="com.mysql.jdbc.Driver" logAbandoned="true" name="jdbc/PostoTreinamento1" password="7n9s51p887q10568" profile="DEV" removeAbandoned="false" removeAbandonedTimeout="60" schema="" type="javax.sql.DataSource" url="jdbc:mysql://rds-oncronos-shared.cx8gelec2ybx.us-east-1.rds.amazonaws.com:3306/15e66e9d-f268-4da7-a9f5-1c887d105688?createDatabaseIfNotExist=true" username="15r66r9qs2684qn7"/>
+    <Profile value="DEV"/>
+</Context>
